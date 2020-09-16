@@ -1,0 +1,17 @@
+3. Algoritma Pseudocode untuk menghitung luas persegi panjang. Rumus luas persegi panjang adalah panjang (p) x lebar (l). Jika diketahui:
+
+panjang=6;
+lebar=2;
+
+Maka bentuk pseudocodenya adalah seperti berikut ini:
+
+program menghitung_luas_persegi_panjang
+
+deklarasi:
+  var panjang:lebar:luas:integer;
+
+Deskripsi:
+  panjang <- 6;
+  lebar <- 2;
+  luas <- panjang*lebar;
+  write (luas);
